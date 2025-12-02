@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
 body{
@@ -42,6 +41,7 @@ section{
 .project-card{
     background-color: rgb(189, 188, 189);
     padding: 15px;
-    margin: 15px 0;
+    margin: 15px ;
     border-radius: 8px;
 }
+
